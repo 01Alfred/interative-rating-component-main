@@ -1,6 +1,6 @@
 # Frontend Mentor - interative-rating-component-main solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [interative-rating-component-main challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Table of contents
@@ -23,13 +23,13 @@ I challenged myself with rating card to hone my frontend skills.
 
 ### Screenshot
 
-![QR screenshoot solution](https://github.com/01Alfred/Product-preview-card-component/blob/main/images/preview%20card%20screenshot.png?raw=true)
+![QR screenshoot solution](https://raw.githubusercontent.com/01Alfred/interative-rating-component-main/04065bf78a7a114ace8a6a7861e733f110ca7b2b/images/rating%20card%20screenshot.png)
 
 
 
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
-- Live Site URL: [Click here](https://01alfred.github.io/interative-rating-component-main/)
+- Live Site URL: [Click here]()
 
 ## My process
