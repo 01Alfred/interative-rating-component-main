@@ -29,7 +29,7 @@ I challenged myself with rating card to hone my frontend skills.
 
 ### Links
 
-- Solution URL: [Click here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
-- Live Site URL: [Click here]()
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/interactive-rating-component-tEbHLO3UCF)
+- Live Site URL: [Click here](https://01alfred.github.io/interative-rating-component-main/)
 
 ## My process
